@@ -27,7 +27,7 @@
 
 ## 📷 Demo
 
-*Add demo link or screenshots here.*
+https://github.com/user-attachments/assets/7360b99c-fe32-4117-a9c8-847d5075e51f
 
 ## ⛓ Description
 
